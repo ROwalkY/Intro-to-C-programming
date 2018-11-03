@@ -1,2 +1,3 @@
 <h1>Introduction to Programming</h1>
-<h2>All works in this course</h2>
+<h2>Basic C programming</h2>
+<b>Course number: </b> &emsp;60-140
