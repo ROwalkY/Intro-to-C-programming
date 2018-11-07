@@ -4,3 +4,4 @@
   <li><b>Course number: </b> &emsp;03-60-140</li>
   <li><b>Course mark: </b>&emsp;&emsp;100%</li>
 </ul>
+<b>Basic use of C keywords and some key concepts of C programming</b>
