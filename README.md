@@ -5,4 +5,4 @@
   <li><b>Course mark: </b>&emsp;&emsp;100%</li>
 </ul>
 <b>Basic use of C keywords and some key concepts of C programming</b>
-Programs used in this course are Notepad++ and Raptor
+<p>Programs used in this course are Notepad++ and Raptor</p>
