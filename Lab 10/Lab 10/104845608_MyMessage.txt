@@ -1,0 +1,28 @@
+Windsor University - Majored in Computer Science
+Studied courses that are related to math. 
+Such as Calculus and Linear Algebra
+As well as courses are related to programming.
+Such as Intro to Programming
+
+Computer Science program - 
+	Studied Courses include: 
+		03-60-100-01
+		03-60-104-01
+		03-60-140-01
+		03-62-120-01
+		03-62-139-02
+
+03-160-140 - Intro to Algorithms & Programming I
+Get start to program.
+Key words include: 
+	Variables
+	if else
+	do while
+	while
+	for
+	switch
+	FILE
+	array[]
+
+Good bye.
+	
